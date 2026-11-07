@@ -1,0 +1,15 @@
+build/
+__pycache__/
+*.pyc
+.venv/
+proof/local-review-state.json
+*.log
+sources/glyphs.svg.zip
+sources/glyphs-small.svg.zip
+fonts/*-Sample.*
+reports/sample-*
+fonts/*.otf
+fonts/*.woff2
+sources/glyphs-original.zip
+proof/context/
+reports/glyph-metrics.json

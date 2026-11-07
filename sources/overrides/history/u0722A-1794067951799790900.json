@@ -1,0 +1,28 @@
+{
+  "source_id": "kx16060",
+  "char": "爪",
+  "source_sha256": "fb17bbe4f30916c8b0a0890630016b8c0829284580d6aecf6d8ab2a3768c25b1",
+  "volume": "06",
+  "page": 194,
+  "box": [
+    1254,
+    676,
+    1434,
+    841
+  ],
+  "tight_page_box": [
+    1258,
+    678,
+    1432,
+    837
+  ],
+  "threshold": 144.0,
+  "algorithm": "local-background-otsu-v1; no hole fill; no component deletion",
+  "sha256": "c67b5374720d8b671cdf49dd466d1b9b360d4a5ce4b1094143da7156b39b4838",
+  "width": 194,
+  "height": 179,
+  "pitch_px": 191.75,
+  "saved_at": "2026-11-08T00:12:31+0800",
+  "note": "",
+  "file": "png/u0722A.png"
+}

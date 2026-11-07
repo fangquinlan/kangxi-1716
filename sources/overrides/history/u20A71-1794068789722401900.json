@@ -1,0 +1,28 @@
+{
+  "source_id": "kx02391",
+  "char": "𠩱",
+  "source_sha256": "e2f463b5e2eac6a7f04d260478e017d97c315195657b74d70e533b07e058c3ce",
+  "volume": "01",
+  "page": 205,
+  "box": [
+    2163,
+    2094,
+    2328,
+    2258
+  ],
+  "tight_page_box": [
+    2163,
+    2094,
+    2328,
+    2258
+  ],
+  "threshold": 149.0,
+  "algorithm": "local-background-otsu-v1; no hole fill; no component deletion",
+  "sha256": "88b08c8793fe52cdc53cfef324b7abf1c7d5861f1f04d53486a6add982a9074e",
+  "width": 185,
+  "height": 184,
+  "pitch_px": 192.0,
+  "saved_at": "2026-11-08T00:26:29+0800",
+  "note": "",
+  "file": "png/u20A71.png"
+}

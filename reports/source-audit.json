@@ -1,0 +1,25 @@
+{
+ "images": 47582,
+ "categories": {
+  "部首标题": 539,
+  "字头": 46960,
+  "重复字头": 83
+ },
+ "review_counts": {
+  "补全": 768,
+  "重组": 266,
+  "低相似度": 42,
+  "位置推定": 2,
+  "孤立碎片": 19,
+  "贯穿划痕": 16,
+  "细直线清理": 49,
+  "残留划痕": 1,
+  "补搜": 26,
+  "避讳玄": 2
+ },
+ "review_union": 1170,
+ "pua_characters": [],
+ "size_note": "PNG pixels unchanged; PDF dpi is metadata, frame calibration uses published half-leaf height 193 mm and is an estimate.",
+ "low_similarity_primary": 41,
+ "low_similarity_repeat": 1
+}

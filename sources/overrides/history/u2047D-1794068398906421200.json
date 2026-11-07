@@ -1,0 +1,28 @@
+{
+  "source_id": "kx01078",
+  "char": "𠑽",
+  "source_sha256": "7c4f606f36048ebe518267a01042e75487c8ab5d1a330e405b14dd82d88d0416",
+  "volume": "01",
+  "page": 113,
+  "box": [
+    2170,
+    2070,
+    2332,
+    2243
+  ],
+  "tight_page_box": [
+    2170,
+    2074,
+    2326,
+    2237
+  ],
+  "threshold": 142.0,
+  "algorithm": "local-background-otsu-v1; no hole fill; no component deletion",
+  "sha256": "a405efd8600ac4eaf23e86a31cccbbecf7bb2132236993a571e782a88abab553",
+  "width": 176,
+  "height": 183,
+  "pitch_px": 192.25,
+  "saved_at": "2026-11-08T00:19:58+0800",
+  "note": "",
+  "file": "png/u2047D.png"
+}

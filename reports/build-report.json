@@ -1,0 +1,233 @@
+{
+ "glyphs": 46963,
+ "source_headwords": 46960,
+ "cmap_entries": 46964,
+ "otf_bytes": 53982068,
+ "woff2_bytes": 37384576,
+ "trace_iou_percentiles": [
+  0.9321351100092966,
+  0.9501826128897464,
+  0.9513922019119789,
+  0.9598472799389233,
+  0.9679361544523322,
+  0.9847013827596351
+ ],
+ "trace_area_error_percentiles": [
+  0.0018728903840163147,
+  0.005870048133732387,
+  0.007996234894779084,
+  0.01575588493614064
+ ],
+ "trace_retries": 45706,
+ "size_safety_shrinks": 1331,
+ "max_shift_units": 35.0,
+ "source_fingerprint": "f33510254e397bfab5475671d82875e29e512159b210bee042b68e2b2a5697ac",
+ "potrace_version": "potracelib 1.16",
+ "sha256": "5047d6aa932c3c65a7708de1b3e8516ad6f03612f1f4837bf2969ae0dd18d56b",
+ "overrides_used": {
+  "20BC9": {
+   "sha256": "4d6c029086b66a82d40db0112b1013534d8a3d8e6c2de42a43f9279552ee7ea8",
+   "char": "𠯉",
+   "source_id": "kx40920"
+  },
+  "2219F": {
+   "sha256": "51cca3938afa7f9987013cae391781f9621e8f6f9247b2203c32064443c81e68",
+   "char": "𢆟",
+   "source_id": "kx07085"
+  },
+  "070A2": {
+   "sha256": "e291342b96da62e389748356860cfd3261044e63c5bbf6d7337fd5f83f0a0e7f",
+   "char": "炢",
+   "source_id": "kx15490"
+  },
+  "0722A": {
+   "sha256": "c67b5374720d8b671cdf49dd466d1b9b360d4a5ce4b1094143da7156b39b4838",
+   "char": "爪",
+   "source_id": "kx16060"
+  },
+  "03E2E": {
+   "sha256": "cf2b1872e75b1a78a2deb62669753ebb0e417bb30a7c98ac25a546299183b5a7",
+   "char": "㸮",
+   "source_id": "kx16287"
+  },
+  "271AA": {
+   "sha256": "4718e3a88ec4ee24ac5d36581ec3627516c620fc1c8bfa4e57fd7e7a65b28f37",
+   "char": "𧆪",
+   "source_id": "kx27240"
+  },
+  "0947F": {
+   "sha256": "348998fd2afed44578e4327916ceb3028ea632d13aa85b5d743b2a7ecd5e5677",
+   "char": "鑿",
+   "source_id": "kx34314"
+  },
+  "26908": {
+   "sha256": "b98de8d59117df938db5edcf865b0dea60965a644f2ba558b86abca12d9df104",
+   "char": "𦤈",
+   "source_id": "kx45654"
+  },
+  "06834": {
+   "sha256": "f7eafdc3b19e8ca03a64b4e80a02c400b47c326bf34fa3c2b3ea076d2418ab55",
+   "char": "栴",
+   "source_id": "kx11803"
+  },
+  "20E4D": {
+   "sha256": "a4cdad60354d4bde5e57b8726bbd733dd933cd4e3239caa04b47fff5e59fdb70",
+   "char": "𠹍",
+   "source_id": "kx03244"
+  },
+  "24F2C": {
+   "sha256": "8d73ce194880cf7c16c1fbc495429af8c7db08311ba96f1cc826770e0c88ad65",
+   "char": "𤼬",
+   "source_id": "kx18464"
+  },
+  "2A5CD": {
+   "sha256": "fdd04562411e9a97243268bd7808cdb9807ab304aab31ec078489b0a232cedf0",
+   "char": "𪗍",
+   "source_id": "kx40538"
+  },
+  "2A68E": {
+   "sha256": "ce22ef754a7d7b9ebb5b9a0fdf4a5517d43b18419ea3a77ce5eed70f69b8eb76",
+   "char": "𪚎",
+   "source_id": "kx42716"
+  },
+  "2053B": {
+   "sha256": "0df79ed527b7774804f2560b3f065923d692c99d5b99250575e02a71d00ae6af",
+   "char": "𠔻",
+   "source_id": "kx45679"
+  },
+  "29F18": {
+   "sha256": "6930f05863b85340b69840fc93a5e45138107738b221360dbcef4ccc994901ca",
+   "char": "𩼘",
+   "source_id": "kx47280"
+  },
+  "2A4C5": {
+   "sha256": "e5318bbf51749acfea99148149844eafd5e6d77aedb167d42a1410cb17c2761e",
+   "char": "𪓅",
+   "source_id": "kx47481"
+  },
+  "2022E": {
+   "sha256": "5462af8005f493ffd5e56059228188d0af96a26188eaa025d45e78cf29e29a3f",
+   "char": "𠈮",
+   "source_id": "kx00495"
+  },
+  "2047D": {
+   "sha256": "a405efd8600ac4eaf23e86a31cccbbecf7bb2132236993a571e782a88abab553",
+   "char": "𠑽",
+   "source_id": "kx01078"
+  },
+  "06528": {
+   "sha256": "e3d5114f0b1dbb234334fc24a6786333d7449b984dfc845dc6f5cca8d1236251",
+   "char": "攨",
+   "source_id": "kx10402"
+  },
+  "06557": {
+   "sha256": "d0476b01a15628196e96be2f83e5ba3015ca71187681bd67a376bd1f217f8696",
+   "char": "敗",
+   "source_id": "kx10547"
+  },
+  "22F45": {
+   "sha256": "45b3e491edbb2aa89004f3b362d08a67e5b6f1c817bd4254fc8e94945cf29c15",
+   "char": "𢽅",
+   "source_id": "kx10553"
+  },
+  "22F69": {
+   "sha256": "bc5fe30824616cda89e7f1fe78c8d9fed4a2ad3ec15ef55dff6d49f2cccf2d7a",
+   "char": "𢽩",
+   "source_id": "kx10587"
+  },
+  "23038": {
+   "sha256": "ec50802a02d0adcc3ef277fd07b9b663126b00e2d7367e26309bc9fc4abec7a5",
+   "char": "𣀸",
+   "source_id": "kx10745"
+  },
+  "07A81": {
+   "sha256": "573ddf3d1ecf487b8c4a9b826dc6af1648f58ac4f970d1fcd97460ed91223795",
+   "char": "突",
+   "source_id": "kx20773"
+  },
+  "26F5F": {
+   "sha256": "8bf82898d7eeaa95a2f63362ced23d62084e67d9e284db3e53fa37739c5b650c",
+   "char": "𦽟",
+   "source_id": "kx26738"
+  },
+  "09CF6": {
+   "sha256": "e665567e40e4401d4db4ef935fa7b664bf7f0feb07c502e357a420d1fa4da0ae",
+   "char": "鳶",
+   "source_id": "kx38956"
+  },
+  "21E96": {
+   "sha256": "4f39dc908f61750ea75c8cc76a94bde69647afa8f259e71f927ccbb5c8ee3154",
+   "char": "𡺖",
+   "source_id": "kx43677"
+  },
+  "20A71": {
+   "sha256": "88b08c8793fe52cdc53cfef324b7abf1c7d5861f1f04d53486a6add982a9074e",
+   "char": "𠩱",
+   "source_id": "kx02391"
+  },
+  "22C0B": {
+   "sha256": "3cc0a669bbb0eac46987e7a9147df23e4af09d98a2aad9c3d82a085fbeb6fdb1",
+   "char": "𢰋",
+   "source_id": "kx09814"
+  },
+  "068DB": {
+   "sha256": "549788393900a3748901b160eaeccacea8acf53e30e29e123af106c1e285f302",
+   "char": "棛",
+   "source_id": "kx11984"
+  },
+  "24115": {
+   "sha256": "97bd08ced03fc3594d22603bf7038264310e9237144128362d1bb0b0118f5072",
+   "char": "𤄕",
+   "source_id": "kx15339"
+  },
+  "24709": {
+   "sha256": "d36fb042eec1e2ad6fd026bcdb54c1c3ef47753527df3c88abbbb1c69171e2e0",
+   "char": "𤜉",
+   "source_id": "kx16489"
+  },
+  "27CC2": {
+   "sha256": "52ce9358f8635d1ac980cc727688925e1589400af6040bb3c6bcac35f5e1db53",
+   "char": "𧳂",
+   "source_id": "kx30663"
+  },
+  "29B13": {
+   "sha256": "9f25e7b8de47106f96ce60fa7ca405be0c8682403009e66a9b1c1ded34a79cd7",
+   "char": "𩬓",
+   "source_id": "kx37882"
+  },
+  "04C99": {
+   "sha256": "a67f5ebcec0d24c3853ac0330d94dda424327f60d8f436ca94904d1a20a8622f",
+   "char": "䲙",
+   "source_id": "kx38882"
+  },
+  "28768": {
+   "sha256": "38d02605d046128f175cec3c7f47b0cddfc2a45604bd9c9ac4dcfaa14cd3df16",
+   "char": "𨝨",
+   "source_id": "kx42427"
+  },
+  "2A03D": {
+   "sha256": "a862078fe077cf2cc5968a807cade40e1e6c479f6cea3abad78f3d4c164e8632",
+   "char": "𪀽",
+   "source_id": "kx47311"
+  },
+  "2A39A": {
+   "sha256": "c45df78da2124a3ae7598f39636cc8c4e3b29449dc8fddd2506825e83a882786",
+   "char": "𪎚",
+   "source_id": "kx47432"
+  }
+ },
+ "family": "OFL Kangxi",
+ "family_zh": "开放康熙字典体",
+ "postscript": "OFLKangxi-Regular",
+ "finalized": "2026-11-08",
+ "editorial_status": "user-confirmed reviewed; some scratch marks retained",
+ "finalization": {
+  "input_otf_sha256": "f0e3e53b1cd506fcad7905f857a5f7d3125b604fd40dcd28565a2a0ebfab2d63",
+  "operations": [
+   "Final requested family and PostScript names",
+   "Review status in name description",
+   "Correct physical provenance for alternate source of U+3E2E"
+  ],
+  "glyph_outlines_changed": false
+ }
+}

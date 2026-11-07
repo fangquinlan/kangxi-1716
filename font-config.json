@@ -1,0 +1,18 @@
+{
+  "family": "OFL Kangxi",
+  "family_zh": "开放康熙字典体",
+  "postscript": "OFLKangxi-Regular",
+  "version": "0.100",
+  "copyright": "Copyright 2026 The OFL Kangxi Project Authors",
+  "upem": 1000,
+  "ascender": 880,
+  "descender": -120,
+  "advance": 1000,
+  "scale_correction_limit": 0.08,
+  "position_limit_em": 0.035,
+  "trace_tolerance_px": 0.2,
+  "trace_alpha": 1.0,
+  "aliases": {
+    "7384": "248E5"
+  }
+}

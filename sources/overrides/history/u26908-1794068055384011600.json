@@ -1,0 +1,28 @@
+{
+  "source_id": "kx45654",
+  "char": "𦤈",
+  "source_sha256": "a4a876227316a49b3ad555e26eb7d2e19295c27f7273330a1b52b38702d7350f",
+  "volume": "13",
+  "page": 107,
+  "box": [
+    310,
+    2065,
+    482,
+    2237
+  ],
+  "tight_page_box": [
+    313,
+    2069,
+    478,
+    2232
+  ],
+  "threshold": 143.0,
+  "algorithm": "local-background-otsu-v1; no hole fill; no component deletion",
+  "sha256": "b98de8d59117df938db5edcf865b0dea60965a644f2ba558b86abca12d9df104",
+  "width": 185,
+  "height": 183,
+  "pitch_px": 189.75,
+  "saved_at": "2026-11-08T00:14:15+0800",
+  "note": "",
+  "file": "png/u26908.png"
+}

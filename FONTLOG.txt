@@ -1,0 +1,19 @@
+FONTLOG for 开放康熙字典体 / OFL Kangxi
+
+2026-11-07  Version 0.100, alpha proof build
+- Imported all 46,960 unique headword masks from the 1716 imperial edition.
+- Preserved 83 duplicate occurrences and 539 radical headings in sources.
+- Recovered scanner pixels, PDF image transforms and face column pitches.
+- Added bounded isotropic normalization and bidirectional optical centering.
+- Added Potrace curve tracing, source-resolution roundtrip and font QA.
+- Preserved taboo Xuan outline; U+7384 aliases U+248E5, explicitly documented.
+- Added focused review desk with original scan context and editable review notes.
+- Font software: SIL OFL 1.1; standalone tools: MIT.
+
+The flagged-source review round was completed by the user on 2026-11-08. Some glyphs retain scratch marks and have not been cleaned further. This does not claim a full manual review of every glyph.
+
+2026-11-08 — 用户确认本轮 1170 条标记记录的人工校对完成；保存 38 个字符的原页重拉框修订。部分字形仍残有划痕笔画，未做进一步清理。
+
+2026-11-08 — 按用户要求，字体中文名称改为“开放康熙字典体”；英文名称保留 OFL Kangxi。
+
+2026-11-08 — 最终命名：开放康熙字典体 / OFL Kangxi；PostScript 名称 OFLKangxi-Regular。

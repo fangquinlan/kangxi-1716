@@ -1,0 +1,136 @@
+{
+  "passed": true,
+  "glyphs": 46960,
+  "source_archive_hashes_checked": 47582,
+  "empty_rasters": [],
+  "bounds_failures": [],
+  "trace_review_outliers": [
+    {
+      "char": "棛",
+      "cp": 26843,
+      "iou": 0.9399124552327895,
+      "area_error": 0.0038957475994513156
+    },
+    {
+      "char": "籉",
+      "cp": 31817,
+      "iou": 0.9373433583959899,
+      "area_error": 0.001155414468867346
+    },
+    {
+      "char": "譶",
+      "cp": 35702,
+      "iou": 0.9321351100092966,
+      "area_error": 0.007460265974699967
+    },
+    {
+      "char": "鷪",
+      "cp": 40426,
+      "iou": 0.9390277777777778,
+      "area_error": 0.0037397443236024787
+    },
+    {
+      "char": "𠧸",
+      "cp": 133624,
+      "iou": 0.9395700174317257,
+      "area_error": 2.1956393035098497e-05
+    },
+    {
+      "char": "𥃣",
+      "cp": 151779,
+      "iou": 0.9365286855482934,
+      "area_error": 0.003746247302748843
+    },
+    {
+      "char": "𥳕",
+      "cp": 154837,
+      "iou": 0.9398344066237351,
+      "area_error": 0.004510773499205568
+    },
+    {
+      "char": "𦏟",
+      "cp": 156639,
+      "iou": 0.9349778981890774,
+      "area_error": 0.0011336055840358602
+    },
+    {
+      "char": "𦏯",
+      "cp": 156655,
+      "iou": 0.9387462530952692,
+      "area_error": 0.004756575413865421
+    },
+    {
+      "char": "𧪰",
+      "cp": 162480,
+      "iou": 0.9394510226049516,
+      "area_error": 9.018241442910429e-05
+    },
+    {
+      "char": "𧮦",
+      "cp": 162726,
+      "iou": 0.9340086399523313,
+      "area_error": 0.0022698391034681924
+    },
+    {
+      "char": "𨃲",
+      "cp": 164082,
+      "iou": 0.9357291977333732,
+      "area_error": 0.0016990431129915251
+    },
+    {
+      "char": "𨝨",
+      "cp": 165736,
+      "iou": 0.9345564592396444,
+      "area_error": 0.004641559109453189
+    },
+    {
+      "char": "𩯤",
+      "cp": 170980,
+      "iou": 0.9379680655645047,
+      "area_error": 0.0022164137689099405
+    }
+  ],
+  "lossless_woff2_tables": {
+    "hhea": true,
+    "maxp": true,
+    "OS/2": true,
+    "name": true,
+    "cmap": true,
+    "post": true,
+    "CFF ": true,
+    "hmtx": true,
+    "vhea": true,
+    "vmtx": true
+  },
+  "multi_size_probe_count": {
+    "16": 24,
+    "24": 24,
+    "32": 24,
+    "48": 24,
+    "96": 24,
+    "256": 24
+  },
+  "harfbuzz": {
+    "ltr": {
+      "glyphs": 24,
+      "advance": [
+        1000,
+        0
+      ]
+    },
+    "ttb": {
+      "glyphs": 24,
+      "advance": [
+        0,
+        -1000
+      ]
+    }
+  },
+  "xuan_alias_verified": true,
+  "elapsed_seconds": 122.49,
+  "otf_sha256": "5047d6aa932c3c65a7708de1b3e8516ad6f03612f1f4837bf2969ae0dd18d56b",
+  "limitations": [
+    "Geometric metrics are not manual proofreading or a reading preference study.",
+    "Low-size raster coverage is all glyphs at 32px; named probes at six sizes."
+  ]
+}

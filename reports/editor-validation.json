@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "preview": true,
+  "save_hash": true,
+  "binary_png": true,
+  "restore": true,
+  "history_retained": true,
+  "invalid_box_rejected": true,
+  "foreign_origin_rejected": true,
+  "real_overrides_untouched": true
+}

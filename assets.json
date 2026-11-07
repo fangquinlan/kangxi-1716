@@ -1,0 +1,48 @@
+[
+  {
+    "name": "OFLKangxi-Regular.otf",
+    "path": "fonts/OFLKangxi-Regular.otf",
+    "url": "https://github.com/fangquinlan/kangxi-1716/releases/download/v0.100/OFLKangxi-Regular.otf",
+    "bytes": 53982068,
+    "sha256": "5047d6aa932c3c65a7708de1b3e8516ad6f03612f1f4837bf2969ae0dd18d56b"
+  },
+  {
+    "name": "OFLKangxi-Regular.woff2",
+    "path": "fonts/OFLKangxi-Regular.woff2",
+    "url": "https://github.com/fangquinlan/kangxi-1716/releases/download/v0.100/OFLKangxi-Regular.woff2",
+    "bytes": 37384576,
+    "sha256": "056b0b0170f57e27cb2284bd6a02d706c06af95390fc03c5a43ee998710755c5"
+  },
+  {
+    "name": "glyphs-original.zip",
+    "path": "sources/glyphs-original.zip",
+    "url": "https://github.com/fangquinlan/kangxi-1716/releases/download/v0.100/glyphs-original.zip",
+    "bytes": 59263168,
+    "sha256": "a74a0e33dfefbaafa3c6519f22638432e161837666c5e4c48b35241b1124f76f"
+  },
+  {
+    "name": "review-context.zip",
+    "path": "build/downloads/review-context.zip",
+    "url": "https://github.com/fangquinlan/kangxi-1716/releases/download/v0.100/review-context.zip",
+    "bytes": 55130340,
+    "sha256": "99fa9d49a43c179597f86924c9c86c7ccc5362ec4850af4f0ef41b5dd6ed0e58",
+    "unzip_to": "proof/context"
+  },
+  {
+    "name": "glyphs.svg.zip",
+    "path": "sources/glyphs.svg.zip",
+    "url": "https://github.com/fangquinlan/kangxi-1716/releases/download/v0.100/glyphs.svg.zip",
+    "bytes": 174338312,
+    "sha256": "f8b4fe14cdfaff546db5fcc86384fc93292269c8dd2af826379e31288dfcdacc",
+    "optional": true
+  },
+  {
+    "name": "glyph-metrics.json.gz",
+    "path": "build/downloads/glyph-metrics.json.gz",
+    "url": "https://github.com/fangquinlan/kangxi-1716/releases/download/v0.100/glyph-metrics.json.gz",
+    "bytes": 18595564,
+    "sha256": "29db885c4061eee3641c815cd4e346b08e0a0125e0c00bc00eb2f4c9d980f211",
+    "optional": true,
+    "gunzip_to": "reports/glyph-metrics.json"
+  }
+]

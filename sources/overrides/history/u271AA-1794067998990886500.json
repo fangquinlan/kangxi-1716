@@ -1,0 +1,28 @@
+{
+  "source_id": "kx27240",
+  "char": "𧆪",
+  "source_sha256": "db526f7b9f5dc2074a7ec7e95cde04c04c62022367593be55614e5ba82876123",
+  "volume": "09",
+  "page": 133,
+  "box": [
+    3320,
+    2727,
+    3473,
+    2899
+  ],
+  "tight_page_box": [
+    3322,
+    2730,
+    3473,
+    2899
+  ],
+  "threshold": 140.0,
+  "algorithm": "local-background-otsu-v1; no hole fill; no component deletion",
+  "sha256": "4718e3a88ec4ee24ac5d36581ec3627516c620fc1c8bfa4e57fd7e7a65b28f37",
+  "width": 171,
+  "height": 189,
+  "pitch_px": 191.75,
+  "saved_at": "2026-11-08T00:13:18+0800",
+  "note": "",
+  "file": "png/u271AA.png"
+}

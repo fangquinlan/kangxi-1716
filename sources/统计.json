@@ -1,0 +1,12 @@
+{
+ "expected_entries": 47043,
+ "matched_entries": 47043,
+ "missing_entries": 0,
+ "unique_characters": 46960,
+ "repeat_images": 83,
+ "radical_title_images": 539,
+ "font_cleaned_images": 49,
+ "completed_images": 1034,
+ "hairline_cleaned_images": 16,
+ "fragment_cleaned_images": 19
+}
