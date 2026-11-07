@@ -56,7 +56,8 @@ class Handler(SimpleHTTPRequestHandler):
    if u.path=='/api/overrides':
     return self.send(200,overrides())
    if u.path.startswith('/api/'):return self.send(404,{'error':'接口不存在'})
-   if '/build' in urllib.parse.unquote(u.path) or '..' in urllib.parse.unquote(u.path):return self.send(403,{'error':'禁止访问'})
+   decoded=urllib.parse.unquote(u.path);parts=decoded.strip('/').split('/')
+   if parts[0] in ['build','.git'] or '..' in parts:return self.send(403,{'error':'禁止访问'})
    return super().do_GET()
   except (KeyError,ValueError,OSError) as e:return self.send(400,{'error':str(e)})
  def do_POST(self):
