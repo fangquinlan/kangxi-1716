@@ -1,0 +1,50 @@
+[
+  {
+    "name": "OFLKangxi-Regular.otf",
+    "bytes_match": true,
+    "sha256_match": true,
+    "state": "uploaded"
+  },
+  {
+    "name": "OFLKangxi-Regular.woff2",
+    "bytes_match": true,
+    "sha256_match": true,
+    "state": "uploaded"
+  },
+  {
+    "name": "glyphs-original.zip",
+    "bytes_match": true,
+    "sha256_match": true,
+    "state": "uploaded"
+  },
+  {
+    "name": "glyphs.svg.zip",
+    "bytes_match": true,
+    "sha256_match": true,
+    "state": "uploaded"
+  },
+  {
+    "name": "OFLKangxi-0.100.zip",
+    "bytes_match": true,
+    "sha256_match": true,
+    "state": "uploaded"
+  },
+  {
+    "name": "review-context.zip",
+    "bytes_match": true,
+    "sha256_match": true,
+    "state": "uploaded"
+  },
+  {
+    "name": "glyph-metrics.json.gz",
+    "bytes_match": true,
+    "sha256_match": true,
+    "state": "uploaded"
+  },
+  {
+    "name": "SHA256SUMS.txt",
+    "bytes_match": true,
+    "sha256_match": true,
+    "state": "uploaded"
+  }
+]
